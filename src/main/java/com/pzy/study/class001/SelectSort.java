@@ -1,4 +1,4 @@
-package com.pzy.study.Class001;
+package com.pzy.study.class001;
 
 import java.util.Arrays;
 
